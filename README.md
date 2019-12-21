@@ -1,3 +1,7 @@
+# note attention
+ 参考，https://github.com/datawhalechina/competition-baseline。
+
+
 # 数据竞赛Baseline分享
 
 假如你是数据竞赛的初学者、爱好者，比赛的baseline不仅是比赛思路分享，同时也是一类数据问题的方法总结。本Repo想做的就是将收集并整理并分享各种比赛的baseline方案。
